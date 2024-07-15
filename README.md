@@ -19,7 +19,7 @@ Feel free to browse through the notes, use them for study purposes, or reference
 To get started with the notes, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/cpp-development-notes.git
+git clone https://github.com/kyrylo-pylinskyi/cpp-development-notes.git
 ```
 
 Once cloned, you can open the files in your preferred text editor, IDE or Obsidian.
