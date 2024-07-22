@@ -1,0 +1,13 @@
+# Language Syntax
+[Basic Operations](1_language_syntax/1_basic_operations/README.md)
+[Functions and Expressions](1_language_syntax/2_functions_and_expressions/README.md)
+[Operations and Data Types](3_operators_and_data_types/README.md)
+[Memory Management](4_memory_management/README.md)
+[Code Organization](5_code_organization/README.md)
+[Object Oriented Programming](1_language_syntax/6_OOP/README.md)
+[Error Handling](7_error_handling/README.md)
+[Language Concepts](8_language_concepts/README.md)
+[STL](9_STL/README.md)
+[Templates](10_templates/README.md)
+[Idioms](11_idioms/README.md)
+[Standards](12_standards/README.md)

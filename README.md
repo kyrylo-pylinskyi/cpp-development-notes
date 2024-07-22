@@ -10,6 +10,10 @@ The purpose of these notes is to serve as a personal study guide and reference f
 
 Each topic is organized into a hierarchical structure, making it easy to find specific information. The notes include code examples, explanations, and best practices to illustrate key concepts effectively.
 
+### Table of Contents
+
+- [Language Syntax](1_language_syntax/README.md)
+- 
 ### Usage
 
 Feel free to browse through the notes, use them for study purposes, or reference specific topics as needed. Contributions and suggestions for improvement are always welcome!
