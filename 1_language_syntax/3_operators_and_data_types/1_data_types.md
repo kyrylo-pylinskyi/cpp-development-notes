@@ -6,13 +6,13 @@ Data types in C++ define the type of data that can be stored and manipulated wit
 
 ### 1. Basic Built-in Types
 
-| Data Type  | Description                       | Size (Bytes) | Example           |
-|------------|-----------------------------------|--------------|--------------------|
-| `int`      | Integer type                      | 4            | `int a = 10;`      |
-| `float`    | Single-precision floating point   | 4            | `float b = 5.5;`   |
-| `double`   | Double-precision floating point   | 8            | `double c = 3.14;` |
-| `char`     | Character type                    | 1            | `char d = 'A';`    |
-| `bool`     | Boolean type (true/false)       | 1            | `bool e = true;`   |
+| Data Type | Description                     | Size (Bytes) | Example            |
+| --------- | ------------------------------- | ------------ | ------------------ |
+| `int`     | Integer type                    | 4            | `int a = 10;`      |
+| `float`   | Single-precision floating point | 4            | `float b = 5.5;`   |
+| `double`  | Double-precision floating point | 8            | `double c = 3.14;` |
+| `char`    | Character type                  | 1            | `char d = 'A';`    |
+| `bool`    | Boolean type (true/false)       | 1            | `bool e = true;`   |
 
 ### 2. Modifiers
 
